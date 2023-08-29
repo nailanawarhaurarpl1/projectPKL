@@ -88,14 +88,14 @@
               <p class="whitespace-no-wrap" style="color: black;"><b>Shipping <br> Address :</b></p>
             </td>
             <td class="bg-white px-5 py-5 text-sm" >
-              <p class="whitespace-no-wrap">jl. rancamanyar, 123456 <br>Kota Bandung, Indonesia, 123456</p>
+              <p class="whitespace-no-wrap">jl. rancamanyar, <br>Kota Bandung, Jawa Barat, Indonesia, 98765</p>
             </td>
             <td class="bg-white px-5 py-5 text-sm">
               <p class="whitespace-no-wrap" style="color: black;"><b>Billing Address :</b></p>
             </td>
 
             <td class="bg-white px-5 py-5 text-sm">
-              <p class="whitespace-no-wrap">jl. rancamanyar, 123456 <br>Kota Bandung, Indonesia, 123456</p>
+              <p class="whitespace-no-wrap">jl. rancamanyar, <br>Kota Bandung, Jawa Barat, Indonesia, 98765</p>
             </td>
           </tr>
        
